@@ -1,7 +1,7 @@
 # OpenAlt-2018
 
 OpenAlt is based on the best on LinuxAlto and Openmobility, and extends its area of interest to Open Data and open access to open-access information (Open Access) topics in public administration and the private sector.
-It will take place on 3-4th Nov. 2018, Brno, Czech Republic.[Full story](https://openalt.cz/2018/)
+It will take place on 3-4th Nov. 2018, Brno, Czech Republic. [Full story](https://openalt.cz/2018/)
 
 * Title : Serverless Authentication with JWT
 * Description : Authentication is one of the big parts of every application. Security is always something that is changing and evolving. In this talk, I will cover what JSON Web Tokens (JWTs) are and why using JWTs in your applications when it comes to security is awesome.
