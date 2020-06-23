@@ -19,6 +19,8 @@ It will take place on 3-4th Nov. 2018, Brno, Czech Republic. [Full story](https:
 
 * Open-Minded 
 
+<h2><a href="https://openalt.cz/2018/program_detail.php#event_46">Speaker Profile</a></h2>
+
 ### Community Channels: 
 [![Follow Auth0 at https://twitter.com/auth0](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40auth0)](https://twitter.com/auth0)
 
